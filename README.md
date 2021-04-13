@@ -1,7 +1,7 @@
 # pdf-singing
 This app helps you to add signature to your .pdf file
 ***
-  AFTER downloading the code go to your bash prompt and type the following command
+  AFTER downloading the code go to your bash prompt and select the directory which you have downloaded the code and type the following command
 ***
      http-server
 ***
